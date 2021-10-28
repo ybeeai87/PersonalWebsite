@@ -1,0 +1,60 @@
+html{
+    background-color:lavender;
+}
+.header{
+text-align: center;
+background-color:lightsteelblue;
+border-style: solid;
+border-color: black;
+
+font-weight: bold;
+}
+
+
+.footer{
+    text-align: center;
+    background-color:lightsteelblue;
+    border-style: solid;
+    border-color: black;
+    font-weight: bold;
+}
+
+#h2css{
+    text-align: center;
+    border-style: double;
+    border-color: blueviolet;
+    background-color:lightskyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.indexAlign{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.h3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    background-color: lightyellow;
+
+}
+#pProjects{
+    font-weight: bolder;
+    text-align: center;
+}
+
+#pAbout{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+
+#pPortfolio{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
